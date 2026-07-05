@@ -17,5 +17,7 @@ This hands-on project is designed to understand how AWS networking components wo
 ## Architecture
 VPC-PUBLIC SUBNET-INTERNET GATEWAY-ROUTE TABLE-EC2 CONNECT
 
+CREATED BY
+JAWERIYA MAHIN
 
 
